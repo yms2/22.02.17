@@ -1,0 +1,8 @@
+.profile {
+    width: 8rem;
+    height: 8rem;
+    background-image: url(https://www.shutterstock.com/ko/blog/wp-content/uploads/sites/17/2017/12/shutterstock_391762396.jpg?w=760&h=505);
+    background-size: 120px;
+    border-radius: 50%;
+    box-shadow: 0 0.5rem 1rem rgb(0,0,0,0.3);
+}

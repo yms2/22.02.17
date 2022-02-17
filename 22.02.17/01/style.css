@@ -1,0 +1,21 @@
+div{
+    background: pink;
+    width: 700px;
+    height: 700px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+nav{
+    width: 470px;
+    height: 570px;
+    background-color: white;
+    border-radius: 30px;
+    background-image: url(https://www.shutterstock.com/ko/blog/wp-content/uploads/sites/17/2017/12/shutterstock_391762396.jpg?w=760&h=505);
+}
+article{
+    width: 470px;
+    height: 400px;
+    background-color:white;
+    
+}
